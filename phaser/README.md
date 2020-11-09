@@ -1,4 +1,7 @@
-INICIAR PROYECTO:
+Instalación Phase 2.15.0 CE:
+https://phaser.io/tutorials/getting-started-phaser2/part2
+
+Iniciar Proyecto:
 Ir al directorio del proyecto y ejecutar NODE. ' http-server '
 
 Phaser 2.15.0 CE
